@@ -9,12 +9,14 @@ if true then return {} end
 -- * disable/enabled LazyVim plugins
 -- * override the configuration of LazyVim plugins
 return {
+  -- add gruvbox
+  { "ellisonleao/gruvbox.nvim" },
 
-  -- Configure LazyVim
+  -- Configure LazyVim to load gruvbox
   {
     "LazyVim/LazyVim",
     opts = {
-      colorscheme = "codedark",
+      colorscheme = "gruvbox",
     },
   },
 
@@ -175,7 +177,7 @@ return {
     "nvim-lualine/lualine.nvim",
     event = "VeryLazy",
     opts = function(_, opts)
-      table.insert(opts.sections.lualine_x, "")
+      table.insert(opts.sections.lualine_x, "😄")
     end,
   },
 
@@ -186,10 +188,12 @@ return {
     opts = function()
       return {
         --[[add your custom lualine config here]]
-        theme = "codedark",
       }
     end,
   },
+
+  -- use mini.starter instead of alpha
+  { import = "lazyvim.plugins.extras.ui.mini-starter" },
 
   -- add jsonls and schemastore packages, and setup treesitter for json, json5 and jsonc
   { import = "lazyvim.plugins.extras.lang.json" },

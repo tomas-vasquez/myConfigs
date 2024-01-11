@@ -1,6 +1,10 @@
 [xfdesktop-version-4.10.3+-rcfile_format]
 4.10.3+=true
 
+[/home/tomas/Desktop/myConfigs]
+row=0
+col=11
+
 [Trash]
 row=6
 col=11
@@ -9,7 +13,7 @@ col=11
 row=0
 col=0
 
-[/home/tom]
+[/home/tomas]
 row=1
 col=0
 

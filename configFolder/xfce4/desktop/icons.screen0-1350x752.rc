@@ -1,12 +1,16 @@
 [xfdesktop-version-4.10.3+-rcfile_format]
 4.10.3+=true
 
-[/home/tomas/Desktop/nviml]
+[/home/tomas/Desktop/proyects]
 row=2
-col=0
+col=11
 
-[/home/tomas/Desktop/myConfigs]
+[/home/tomas/Desktop/work]
 row=0
+col=11
+
+[/home/tomas/Desktop/learn]
+row=1
 col=11
 
 [Trash]

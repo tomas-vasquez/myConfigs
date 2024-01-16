@@ -7,12 +7,12 @@
         <property name="workspace0" type="empty">
           <property name="color-style" type="int" value="0"/>
           <property name="image-style" type="int" value="3"/>
-          <property name="last-image" type="string" value="/home/tomas/Downloads/anime-girl-alone-cat-night-sky-stars-city-scenery-ai-hd-wallpaper-uhdpaper.com-743@1@l.jpg"/>
+          <property name="last-image" type="string" value="/home/tomas/Downloads/vecteezy_silhouette-landscape-with-fog-forest-pine-trees_9302769-1.jpg"/>
         </property>
         <property name="workspace1" type="empty">
           <property name="color-style" type="int" value="0"/>
-          <property name="image-style" type="int" value="5"/>
-          <property name="last-image" type="string" value="/usr/share/backgrounds/xfce/xfce-shapes.svg"/>
+          <property name="image-style" type="int" value="1"/>
+          <property name="last-image" type="string" value="/home/tomas/Downloads/inMouse_5K.png"/>
         </property>
         <property name="workspace2" type="empty">
           <property name="color-style" type="int" value="0"/>
@@ -30,8 +30,12 @@
         <property name="image-show" type="bool" value="true"/>
         <property name="image-style" type="int" value="5"/>
         <property name="workspace0" type="empty">
-          <property name="last-image" type="string" value="/home/tomas/Downloads/anime-girl-alone-cat-night-sky-stars-city-scenery-ai-hd-wallpaper-uhdpaper.com-743@1@l.jpg"/>
+          <property name="last-image" type="string" value="/home/tomas/Downloads/vecteezy_silhouette-landscape-with-fog-forest-pine-trees_9302769-1.jpg"/>
           <property name="image-style" type="int" value="3"/>
+        </property>
+        <property name="workspace1" type="empty">
+          <property name="last-image" type="string" value="/home/tomas/Downloads/inMouse_5K.png"/>
+          <property name="image-style" type="int" value="1"/>
         </property>
       </property>
     </property>

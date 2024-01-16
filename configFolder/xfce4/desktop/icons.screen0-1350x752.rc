@@ -1,20 +1,20 @@
 [xfdesktop-version-4.10.3+-rcfile_format]
 4.10.3+=true
 
-[/home/tomas/Desktop/proyects]
-row=2
-col=11
-
-[/home/tomas/Desktop/work]
+[/home/tomas/Desktop/learn]
 row=0
 col=11
 
-[/home/tomas/Desktop/learn]
-row=1
-col=11
+[C49D-E756]
+row=3
+col=0
+
+[2024-01-01-16-44-54-00]
+row=2
+col=0
 
 [Trash]
-row=6
+row=5
 col=11
 
 [/]

@@ -35,15 +35,21 @@
     </property>
     <property name="plugin-7" type="string" value="whiskermenu">
       <property name="recent" type="array">
+        <value type="string" value="org.gnome.MultiWriter.desktop"/>
+        <value type="string" value="firefox.desktop"/>
+        <value type="string" value="chromium.desktop"/>
+        <value type="string" value="org.xfce.Parole.desktop"/>
+        <value type="string" value="htop.desktop"/>
+        <value type="string" value="xfce4-notifyd-config.desktop"/>
+        <value type="string" value="pavucontrol.desktop"/>
+        <value type="string" value="xfce4-terminal.desktop"/>
         <value type="string" value="xfce-settings-manager.desktop"/>
         <value type="string" value="panel-preferences.desktop"/>
-        <value type="string" value="firefox.desktop"/>
-        <value type="string" value="pavucontrol.desktop"/>
-        <value type="string" value="xfce-wm-settings.desktop"/>
-        <value type="string" value="xfce-keyboard-settings.desktop"/>
-        <value type="string" value="com.obsproject.Studio.desktop"/>
-        <value type="string" value="xfce-session-settings.desktop"/>
       </property>
+      <property name="button-icon" type="string" value="distributor-logo-archlinux"/>
+      <property name="button-single-row" type="bool" value="true"/>
+      <property name="show-button-title" type="bool" value="true"/>
+      <property name="button-title" type="string" value="Apps "/>
     </property>
     <property name="plugin-17" type="string" value="tasklist"/>
     <property name="plugin-18" type="string" value="separator">
